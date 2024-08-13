@@ -11,7 +11,6 @@
 ✉️ &nbsp;You can shoot me an email at rezafauzanpratama01@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/19faGfEWgIcEyGG8JnMnz8TzJrF5M5R3-/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
