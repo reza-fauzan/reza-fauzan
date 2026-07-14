@@ -1,7 +1,5 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Reza Fauzan Pratama</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Reza -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -32,8 +30,8 @@
 
 <p align="left">
 <a href="https://github.com/reza-fauzan">
-  <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reza-fauzan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reza-fauzan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reza-fauzan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reza-fauzan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
